@@ -1,0 +1,86 @@
+run:
+--stack oerations--
+1.push
+2.pop
+3.display
+4.exit
+enter your choise:
+2
+Stack underflow
+--stack oerations--
+1.push
+2.pop
+3.display
+4.exit
+enter your choise:
+1
+enter the element to push:
+30
+--stack oerations--
+1.push
+2.pop
+3.display
+4.exit
+enter your choise:
+1
+enter the element to push:
+20
+--stack oerations--
+1.push
+2.pop
+3.display
+4.exit
+enter your choise:
+1
+enter the element to push:
+10
+--stack oerations--
+1.push
+2.pop
+3.display
+4.exit
+enter your choise:
+3
+stack elements are:
+10
+20
+30
+--stack oerations--
+1.push
+2.pop
+3.display
+4.exit
+enter your choise:
+2
+popped element=10
+--stack oerations--
+1.push
+2.pop
+3.display
+4.exit
+enter your choise:
+2
+popped element=20
+--stack oerations--
+1.push
+2.pop
+3.display
+4.exit
+enter your choise:
+2
+popped element=30
+--stack oerations--
+1.push
+2.pop
+3.display
+4.exit
+enter your choise:
+3
+stack is empty
+--stack oerations--
+1.push
+2.pop
+3.display
+4.exit
+enter your choise:
+4
